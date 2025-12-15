@@ -2,7 +2,7 @@ About Me - Jan Carlos B. Debolgado
 
 I'm **Jan Carlos**, a Computer Engineering student (BSCPE)  
 
-Interests
+## Interests
 - 🤖 Learning new technology  
 - 💻 Exploring cool programming stuff  
 
